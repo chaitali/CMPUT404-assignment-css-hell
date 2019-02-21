@@ -40,8 +40,12 @@ Used the CSS from W3Schools for centering images in the gutenberg files
 Used Designshack for scrolling to different parts of the page in the homepage HTML files, Credits to Joshua Johnson
 * https://designshack.net/articles/html/how-to-link-to-specific-points-in-a-page-and-animate-the-scroll/
 
-Looked at CSS-Tricks for Flexbox 
+Looked at CSS-Tricks and W3Schools for Flexbox 
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://www.w3schools.com/cSS/css3_flexbox.asp
+
+To set borders between elements in the navbar, thanks to Barney for this answer
+* https://stackoverflow.com/questions/14811215/how-to-set-borders-between-children-from-parent-in-css
 
 Used IBM Plex Sans for my homepage and gutenberg files, its's licensed using http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
 
