@@ -17,9 +17,14 @@ License/Copyright
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Abram Hindle visibile in the text.
+repository and (C) 2013 Abram Hindle visible in the text.
 
-Code is licensed under the Apache 2.0 license.
+Code is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Gutenberg File Changes
+=================
+Deleted the style tag and contents within each HTML file and added my own styles by linking a stylesheet.   
+
 
 References
 =================
