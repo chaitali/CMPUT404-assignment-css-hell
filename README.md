@@ -21,4 +21,27 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+References
+=================
+
+Looked at w3schools for general HTML and CSS formatting
+
+* https://www.w3schools.com/html/html_css.asp
+* https://www.w3schools.com/css/css_text.asp
+
+Used the CSS from W3Schools for centering images in the gutenberg files
+* https://www.w3schools.com/howto/howto_css_image_center.asp
+
+Looked at CSS-Tricks for Flexbox 
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Used IBM Plex Sans for my homepage and gutenberg files, its's licensed using http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
+
+Thanks Google Fonts
+https://fonts.google.com/specimen/IBM+Plex+Sans
+
+
+
+
+
 
