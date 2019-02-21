@@ -37,6 +37,8 @@ h2 {
     font-size: 20px;
 }
 
+/* https://stackoverflow.com/questions/14811215/how-to-set-borders-between-children-from-parent-in-css */
+/* credits to Barney */
 .nav-bar a:not(:last-child){
     border-right: solid 3px #000;
 }
