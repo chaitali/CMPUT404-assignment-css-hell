@@ -32,6 +32,9 @@ Looked at w3schools for general HTML and CSS formatting
 Used the CSS from W3Schools for centering images in the gutenberg files
 * https://www.w3schools.com/howto/howto_css_image_center.asp
 
+Used Designshack for scrolling to different parts of the page in the homepage HTML files, Credits to Joshua Johnson
+* https://designshack.net/articles/html/how-to-link-to-specific-points-in-a-page-and-animate-the-scroll/
+
 Looked at CSS-Tricks for Flexbox 
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
