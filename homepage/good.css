@@ -100,7 +100,7 @@ h2 {
 .pic {
     width: 200px;
     height: 200px;
-    margin-top: 40px;
+    margin-top: 90px;
     margin-right: 40px;
 }
 
@@ -125,9 +125,10 @@ h2 {
 .sidebar {
     width: 25%;
     height: fit-content;
+    height: -moz-fit-content;
     background: darksalmon;
     margin: 20px 20px 20px 0;
-    padding: 8px 0;
+    padding: 10px;
     color: white;
     text-align: center;
 }
@@ -149,7 +150,6 @@ h2 {
     background-color: darksalmon;
     font-size: 20px;
     padding: 10px;
-    
 }
 
 .footer a {
